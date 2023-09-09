@@ -1,0 +1,2 @@
+Testing how staging works.
+typeing git add . addes all  files in directory to staging.
